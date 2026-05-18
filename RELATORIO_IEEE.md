@@ -113,4 +113,3 @@ Este projeto demonstrou com sucesso como conceitos fundamentais de Álgebra Line
 
 ---
 
-**Nota:** Este relatório é uma síntese de um projeto mais amplo incluindo notebook Jupyter com implementação completa, análise exploratória, visualizações e diagnósticos. Ver README.md e regressao_linear_vendas_sorvete.ipynb para detalhes técnicos.
